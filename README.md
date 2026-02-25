@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Anaïs Galvañ-Domenech.\
 I have a PhD in plant pathology 🌱 and right now, I am training in remote sensing (🛰️🌎🌿).\
-My interest is in applying remote sensing to detect and make decisions regarding agricultural pests and diseases.\
+My interest is applying remote sensing to detect and make decisions regarding agricultural pests and diseases.\
 I want to use this space to develop my projects and create my blog.\
 Stay tuned! 
 
